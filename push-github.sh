@@ -10,6 +10,6 @@ git add .
 git commit -m  $message
 git branch -M main
 git remote ad origin $git_path
-git push orgin main
+git push -u orgin main
 
-echo "Task completed"+
+echo "Task completed"
